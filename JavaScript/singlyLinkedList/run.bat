@@ -1,0 +1,1 @@
+tsc list.ts && node list.js

@@ -1,0 +1,1 @@
+tsc sine.ts && node sine.js
